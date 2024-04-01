@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table thead{
+    background-color: rgb(93, 124, 247) ;
+
+}
+table tbody{
+    background-color: rgb(228, 226, 226);
+    /* color: white; */
+}
